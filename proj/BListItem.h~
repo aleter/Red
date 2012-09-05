@@ -1,0 +1,19 @@
+#ifndef __BLISTITEM__H__
+#define __BLISTITEM__H__
+
+class BListItem
+{
+ public:
+  BListItem();
+  BListItem(const BList & from);
+
+
+ private:
+
+
+
+};
+
+
+
+#endif

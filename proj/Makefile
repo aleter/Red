@@ -1,5 +1,7 @@
 EXEC= red.exe
-SRC= red.cpp
+SRC= red.cpp \
+ BListItem.cpp \
+ BList.cpp
 CC= g++
 
 build:

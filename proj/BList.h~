@@ -1,0 +1,19 @@
+#ifndef __BLIST__H__
+#define __BLIST__H__
+
+class BList
+{
+ public:
+  BList();
+  BList(const BList & from);
+
+
+ private:
+
+
+
+};
+
+
+
+#endif
